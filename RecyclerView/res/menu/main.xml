@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.recyclerviw.MainActivity" >
+
+    <item
+        android:id="@+id/action_listView"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="ListView"/>
+    <item
+        android:id="@+id/action_hGridView"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Horizontal GridView"/>
+    <item
+        android:id="@+id/action_vGirdView"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Vertical GirdView"/>
+    <item
+        android:id="@+id/action_sGirdView"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Staggerd GirdView"/>
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_menu_add"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Add"/>
+    <item
+        android:id="@+id/action_del"
+        android:icon="@drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Delete"/>
+
+</menu>
