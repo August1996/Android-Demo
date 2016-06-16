@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.example.topbar"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.example.topbar.Topbar
+        android:id="@+id/tb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:backgroundColor="#f84254"
+        app:leftText="返回"
+        app:leftTextColor="#ffffff"
+        app:leftTextSize="16dp"
+        app:rightText="确定"
+        app:rightTextColor="#ffffff"
+        app:rightTextSize="16dp"
+        app:title="窗口标题"
+        app:titleTextColor="#ffffff"
+        app:titleTextSize="18dp" >
+    </com.example.topbar.Topbar>
+
+</RelativeLayout>
