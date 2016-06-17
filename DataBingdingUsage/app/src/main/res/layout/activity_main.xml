@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/dataBind2View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="数据绑定视图" />
+
+    <Button
+        android:id="@+id/viewBind2View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="数据视图双向绑定" />
+
+    <Button
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="结合ListView" />
+    <Button
+        android:id="@+id/importView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="关于import关键字" />
+</LinearLayout>
