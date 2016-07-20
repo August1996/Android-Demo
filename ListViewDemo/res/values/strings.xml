@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_list_view">ImageListViewActivity</string>
+    <string name="title_activity_drawable_list_view">DrawableListViewActivity</string>
+
+</resources>
