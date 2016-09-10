@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transition&amp;AnimationsDemo</string>
+    <string name="android_linux_google">Android是一种基于Linux的自由及开放源代码的操作系统，主要使用于移动设备，如智能手机和平板电脑，由Google公司和开放手机联盟领导及开发。尚未有统一中文名称，中国大陆地区较多人使用“安卓”或“安致”。</string>
+    <string name="overlap_entertransition_entertransition_exittransition">当Overlap的属性为真的时候，下一个页面的EnterTransition会马上开始。当为假的时候，下一个页面的EnterTransition要等上一个页面的ExitTransition完了之后才开始。</string>
+</resources>
